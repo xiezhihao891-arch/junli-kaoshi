@@ -8,3 +8,5 @@
 - 错题本、模拟考（20 单选 + 10 多选限时）、简答/论述自测、学习统计、考试倒计时
 
 纯静态单页（HTML/CSS/JS），无外部依赖，进度保存在浏览器 localStorage。
+
+线上地址：https://xiezhihao891-arch.github.io/junli-kaoshi/
